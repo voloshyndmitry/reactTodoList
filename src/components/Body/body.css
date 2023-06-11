@@ -1,3 +1,11 @@
 .bodyContainer {
     height: calc(100% - 200px);
 }
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    gap: 10px;
+}
